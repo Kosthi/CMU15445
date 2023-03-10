@@ -1,0 +1,6 @@
+*/.DS_Store
+*/imdb-cmudb2022.db
+node_modules
+package.json
+package-lock.json
+
